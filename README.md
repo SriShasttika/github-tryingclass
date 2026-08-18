@@ -20,9 +20,9 @@
 - [ ] rea 
 - [x] dress
 <hr>
-1 think
+1 think<br>
 2 bye
 <hr>
-[doremon](https://in.pinterest.com/angelshizukaa/doraemon-nobita/)
-🔥
-😄
+[doremon](https://in.pinterest.com/angelshizukaa/doraemon-nobita/)<br>
+🔥<br>
+😄<br>
