@@ -3,7 +3,7 @@
 ###  object
 ###### self intro
 <P> hello everyone i am sri shasttika</P><br>
-<p> i completed my schooling in st marks  mat hr sec scholl ,at present i am pursing  bsc in computer science and datascience</p>
+<p> i completed my schooling in st marks  mat hr sec scholl ,at present i am pursing  bsc in computer science and d atascience</p>
 <hr>
 <b> <i>subtopic 1:</i>schedule   </b><br><del>hello  everyone this is our first class</del>
 
