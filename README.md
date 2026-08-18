@@ -14,5 +14,15 @@
 | 12;00 | computer |
 
 <hr>
--[  ] things to pack<br>
--[ x ] dress
+
+- [ ] hello
+- [ ] hi
+- [ ] 
+- [x] dress
+<hr>
+1 think
+2 bye
+<hr>
+[doremon](https://in.pinterest.com/angelshizukaa/doraemon-nobita/)
+🔥
+😄
