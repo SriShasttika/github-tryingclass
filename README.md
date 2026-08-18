@@ -10,7 +10,10 @@
 | time | acti |
 | ---- | ---- |
 | 9:00 | comp |
+| ---- | ---- |
 | 10:0 | pyto |
+| ---- | ---- |
+
 <hr>
 -[  ] things to pack<br>
  [ x ] dress
