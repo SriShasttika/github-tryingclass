@@ -6,9 +6,11 @@
 <p> i completed my schooling in st marks  mat hr sec scholl ,at present i am pursing  bsc in computer science and datascience</p>
 <hr>
 <b> <i>subtopic 1:</i>schedule   </b><br><del>hello  everyone this is our first class</del>
-| time | acti |<br>
-| 9:00 | cs |<br>
-| 10:00 | python|<br>
+<b> table creating</b>
+| time | acti |
+| ---- | ---- |
+| 9:00 | comp |
+| 10:0 | pyto |
 <hr>
 -[  ] things to pack<br>
  [ x ] dress
