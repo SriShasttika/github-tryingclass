@@ -1,10 +1,13 @@
 # heading
 ## group
 ###  object
+###### self intro
 <P> hello everyone i am sri shasttika</P><br>
-<b> <i>subtopic 1:</i>schedule</b><del>hello  everyone this is our first class</del>
+<p> i completed my schooling in st marks  mat hr sec scholl ,at present i am pursing  bsc in computer science and datascience</p>
+<hr>
+<b> <i>subtopic 1:</i>schedule   </b><br><del>hello  everyone this is our first class</del>
 |time|acti|
 |9:00|cs|
-|10:00|python|
--[ ] things to pack<br>
--[ x ] dress
+|10:00|python|<br>
+-[  ] things to pack<br>
+ [ x ] dress
